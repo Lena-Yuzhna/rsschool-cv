@@ -62,5 +62,5 @@ Basic knowledge of:
 *  Ajax
 ### Languages:
 * English- intermediate
-* Polish- intermediate
+* Polish- interme
 
